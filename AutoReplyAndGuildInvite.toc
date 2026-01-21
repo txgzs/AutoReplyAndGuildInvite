@@ -1,0 +1,10 @@
+## Interface: 30403，40401, 11505，110002
+## Title: 自动回复+公会邀请助手
+## Notes: 魔兽世界时光服专用，首次密语回复+自动公会邀请。/argi调出设置界面
+## Author: 自定义
+## Version: 2.0
+## SavedVariables: AutoReply_FirstReply_Enable,AutoReply_FirstReply_Text,AutoReply_RuleReply_Enable,AutoReply_GuildInv_Enable,AutoReply_GuildInv_Trigger,AutoReply_Rule1_Trigger,AutoReply_Rule1_Reply,AutoReply_Rule2_Trigger,AutoReply_Rule2_Reply,AutoReply_Rule3_Trigger,AutoReply_Rule3_Reply,AutoReply_Rule4_Trigger,AutoReply_Rule4_Reply,AutoReply_Rule5_Trigger,AutoReply_Rule5_Reply,AutoReply_Rule6_Trigger,AutoReply_Rule6_Reply,AutoReply_Rule7_Trigger,AutoReply_Rule7_Reply,AutoReply_Rule8_Trigger,AutoReply_Rule8_Reply,AutoReply_Rule9_Trigger,AutoReply_Rule9_Reply,AutoReply_Rule10_Trigger,AutoReply_Rule10_Reply,AutoReply_WhisperedPlayers
+## DefaultState: enabled
+## X-Category: 聊天增强
+
+AutoReplyAndGuildInvite.lua
